@@ -3,9 +3,9 @@ import { Header } from "./components/header";
 
 export function App() {
     return (
-        <div className="max-w[1216] mx-auto py-5">
+        <div className="flex gap-2">
           <Header />
           <AttendeeList />
         </div>
-    )
-}
+    ) 
+  }
