@@ -4,6 +4,7 @@ import { App } from './app'
 import './index.css'
 
 
+
 // Componentes e propriedades
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
